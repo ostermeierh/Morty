@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="behandlungen">
+        <item>Kaputter Fuß</item>
+        <item>Metakam</item>
+    </string-array>
+</resources>
